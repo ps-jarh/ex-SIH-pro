@@ -1,0 +1,6 @@
+{
+  "name": "Blockchain Credential Issuance & Verification Ledger",
+  "description": "Tamper-proof academic and professional credential issuance, cryptographic hash-chain ledger, revocation management, and instant file/QR verification portal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
